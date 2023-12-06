@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .description {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .scan-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .qr-code {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
